@@ -6,12 +6,12 @@
 [Songhua Liu](https://scholar.google.com/citations?user=AnYh2rAAAAAJ&hl=en&oi=ao),
 and [Xinchao Wang](https://scholar.google.com/citations?user=w69Buq0AAAAJ&hl=en&oi=ao)
 
-[[Arxiv]](https://arxiv.org/abs/)
+[[Arxiv]](https://arxiv.org/abs/2303.10597)
 
 </div>
 
 This repository is an official PyTorch implementation of the paper
-[**『 Partial Network Cloning 』**](https://arxiv.org/abs/).
+[**『 Partial Network Cloning 』**](https://arxiv.org/abs/2303.10597).
 It conducts partial parametric ``cloning'' from a source network and then injects the cloned 
 module to the target, without modifying
 its  parameters..
